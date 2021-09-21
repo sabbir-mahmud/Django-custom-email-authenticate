@@ -1,0 +1,4 @@
+Python 3.9.5
+python venv
+Django 3.2.3
+Pillow 8.2.0

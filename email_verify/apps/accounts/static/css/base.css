@@ -1,0 +1,66 @@
+.img-wrapper {
+    width: 69%;
+    overflow: hidden;
+    margin-top: 7%;
+    border-radius: 29px;
+}
+
+.img-wrapper img {
+    width: 100%;
+}
+
+.name {
+    margin-top: 9%;
+}
+
+.name h1 {
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+.name h1 strong {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.email {
+    margin-top: 5%;
+}
+
+.email h1 {
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+.email h1 strong {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.gender {
+    margin-top: 5%;
+}
+
+.gender h1 {
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+.gender h1 strong {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.bio {
+    margin-top: 5%;
+}
+
+.bio h1 {
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+.bio h1 strong {
+    font-size: 25px;
+    font-weight: 400;
+}
